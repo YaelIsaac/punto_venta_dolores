@@ -23,7 +23,7 @@ class _PantallaCajaState extends State<PantallaCaja> {
     final vm = widget.vm;
     return AnimatedBuilder(
       animation: vm,
-      builder: (_, __) => Scaffold(
+      builder: (_, _) => Scaffold(
         appBar: AppBar(title: const Text('Caja · Dolores Hidalgo')),
         body: Column(children: [
           Padding(

@@ -1,4 +1,5 @@
 /// Errores de negocio. Dart puro: se prueban sin Flutter ni base de datos.
+library;
 
 class CodigoDuplicadoException implements Exception {
   final String codigo;
