@@ -90,6 +90,6 @@ Captura de una prueba en ROJO antes de crear el código:
 
 ![Prueba en rojo](capturas/08_prueba_roja.jpeg)
 
-## Conclusiones
 
-[Escribe 3 o 4 líneas con tus palabras: qué aprendiste de TDD, de usar centavos enteros y de las transacciones.]
+
+
