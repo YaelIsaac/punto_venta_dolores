@@ -90,6 +90,6 @@ Captura de una prueba en ROJO antes de crear el código:
 
 ![Prueba en rojo](capturas/08_prueba_roja.jpeg)
 
-
-
-
+## Conclusión 
+ 
+ SI
