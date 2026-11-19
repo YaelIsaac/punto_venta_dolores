@@ -1,6 +1,6 @@
 # Punto de Venta con TDD · Flutter + SQLite
 
-**Materia:** Desarrollo Móvil Integral
+**Materia:** Desarrollo de Aplicaciones Móviles
 **Universidad:** UTNG, Dolores Hidalgo
 **Profesor:** Anastacio Rodríguez García
 **Alumno:** González López Yael Isaac
